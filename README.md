@@ -15,6 +15,10 @@ The course has been held by professor Monica Palmirani, with the mentorship of [
 # Table of contents
 [...]
 
+<img title="EDA_Pipeline" alt="EDA sketch" src="https://github.com/sterenz/open-access/blob/main/graphic_EDA_Cami.jpeg">
+
+
+
 # How to interact with the visualization
 Have fun exploring our visualizations. In the website you'll find many interactive visualization to manage data and gather your own conclusions about the topic we're dealing with here.
 
