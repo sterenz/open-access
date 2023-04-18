@@ -32,4 +32,4 @@ The team for the development of the project has been composed by:
 - [Stefano Renzetti](mailto:stefano.renzetti3@studio.unibo.it)
 
 # License
-The team for the development of the project has been composed by:
+Software used
