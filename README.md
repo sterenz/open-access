@@ -25,9 +25,9 @@ Have fun exploring our visualizations. In the website you'll find many interacti
 # Credits
 The team for the development of the project has been composed by:
 
-- [Camila Da Silva Ferraz De Oliveira](mailto:camila.oliveira@studio.unibo.it)
+- [Camila Da Silva Ferraz De Oliveira](mailto:camila.oliveira@studio.unibo.it) / cleaning phase and mashup phase / architecture of information
 
-- [Giusy Grieco](mailto:giusy.grieco@studio.unibo.it)
+- [Giusy Grieco](mailto:giusy.grieco@studio.unibo.it) / cleaning phase and mashup phase / architecture of information
 
 - [Stefano Renzetti](mailto:stefano.renzetti3@studio.unibo.it)
 
