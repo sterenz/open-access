@@ -17,7 +17,7 @@ The course has been held by professor Monica Palmirani, with the mentorship of [
 
 <img title="EDA_Pipeline" alt="EDA sketch" src="https://github.com/sterenz/open-access/blob/main/graphic_EDA_Cami.jpeg">
 
-
+Research question / JOB X IMMIGRANTS X LEVEL OF EDUCATION
 
 # How to interact with the visualization
 Have fun exploring our visualizations. In the website you'll find many interactive visualization to manage data and gather your own conclusions about the topic we're dealing with here.
